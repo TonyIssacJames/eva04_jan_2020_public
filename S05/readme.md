@@ -5,5 +5,5 @@
 ## Step 1:
   - Targets:
   - Results:
-  - Analyisi:
+  - Analysis:
   - File Link:
